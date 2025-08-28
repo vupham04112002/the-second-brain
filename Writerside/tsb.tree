@@ -7,4 +7,7 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
+    <toc-element toc-title="Blogs">
+        <toc-element topic="How-CQRS-and-MediatR-Are-Often-Done-Wrong.md"/>
+    </toc-element>
 </instance-profile>
