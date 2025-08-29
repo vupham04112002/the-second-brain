@@ -5,7 +5,7 @@ You can use it as a sandbox to play with Writerside features, and remove it from
 If you want to re-add it for your experiments, click + to create a new topic, choose Topic from Template, and select the 
 "Starter" template.-->
 
-## Wassup! I'm Vu
+## Wassup! I'm Vũ
 * I like cats
 * I also appreciate plants, Monstera is my most favorite
 * I have some experience in growing plants and managing them
