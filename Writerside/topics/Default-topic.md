@@ -11,6 +11,7 @@ If you want to re-add it for your experiments, click + to create a new topic, ch
 * I have some experience in growing plants and managing them
 * I vibe with old-school music like jazz-rap, hip-hop, and metal rock ([check out my recent favorite track](https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq?si=4da5861969504270))
 * Contact me at: vupham2002@outlook.com
+* Repo of this project: [](https://github.com/vupham04112002/the-second-brain)
 
 |-----------------------------------------------------|-------------------------------------------|
 | ![My Monstera](../images/about-me/my-monstera.jpeg) | ![My Cat](../images/about-me/my-cat.jpeg) |
